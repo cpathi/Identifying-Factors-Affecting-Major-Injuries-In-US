@@ -1,6 +1,8 @@
 # Identifying Factors Affecting Major Injuries In US
 The project helps us to identify the factors influencing the Major injury during an accident.
 
+<img src="images/Major.jpg" width="600" height="300">
+
 ## Table of Contents
 * [About](#about)
 * [Technologies](#technologies)
